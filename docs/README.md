@@ -8,7 +8,7 @@ There are multiple ways to install i4EAdmin.
 
 ### Download & Changelog:
 Always Recommended to download from GitHub latest release [i4EAdmin](https://github.com/lupael/AdminDashboard/releases/latest) for bug free and latest features.\
-Visit the [releases](https://github.com/lupael/AdminDashboard/releases) page to view the changelog.\
+Visit the [releases](https://github.com/lupael/AdminDashboard/) page to view the changelog.\
 
 ## Stable release
 ### Grab from [jsdelivr](https://www.jsdelivr.com/package/npm/admin-lte) CDN:

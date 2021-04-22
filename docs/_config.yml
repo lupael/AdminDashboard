@@ -1,9 +1,9 @@
-title: AdminLTE v3 Documentation
+title: i4EAdmin Documentation
 version: v3.1.0
-description: AdminLTE v3.1 Documentation
+description: i4EAdmin Documentation
 
 baseurl: /docs/3.1
-url: https://adminlte.io
+url: https://doc.i4e.com.bd/dashboard/
 
 plugins:
   - jekyll-seo-tag

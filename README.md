@@ -45,7 +45,7 @@ composer require "almasaeed2010/adminlte=~3.1"
 ```
 #### Via Git
 ```bash
-git clone https://github.com/ColorlibHQ/AdminLTE.git
+git clone https://github.com/lupael/AdminDashboard.git
 ```
 
 ## Unstable release
@@ -78,7 +78,7 @@ git clone https://github.com/lupael/AdminDashboard.git
 
 ## Documentation
 
-Visit the [online documentation](https://adminlte.io/docs/3.1/) for the most
+Visit the [online documentation](https://doc.i4e.com.bd/dashboard/) for the most
 updated guide. Information will be added on a weekly basis.
 
 ## Browsers support
